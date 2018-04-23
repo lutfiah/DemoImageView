@@ -19,4 +19,22 @@
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/day2" />
 
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="74dp"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/day3" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="74dp"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/day4" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="74dp"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/day5" />
+
 </LinearLayout>
